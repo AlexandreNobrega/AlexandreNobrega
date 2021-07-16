@@ -1,6 +1,6 @@
 # Alexandre Nobrega 
 
-Desenvolvedor Junior
+Desenvolvedor jr Java | Spring boot | Backend
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white//www.linkedin.com/in/cunhadev/)](https://www.linkedin.com/in/alexandre-nobrega-b540988a) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev.mateuscunha@gmail.com)](mailto:alexandrenobrega777@gmail.com)
