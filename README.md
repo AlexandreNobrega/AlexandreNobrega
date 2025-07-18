@@ -20,6 +20,9 @@ Apaixonado por criar soluções completas e eficientes, do backend ao frontend. 
 **DevOps & Containerização:**
 - 🐳 **Docker** - Containerização de aplicações para diferentes ambientes
 
+**Automação & Workflows:**
+- 🔗 **n8n** - Automação de processos e integração de sistemas
+
 **Especialidades:**
 - 🔧 Arquitetura de microserviços
 - 🌐 APIs RESTful
