@@ -41,5 +41,7 @@ Apaixonado por criar soluções completas e eficientes, do backend ao frontend. 
 
 ### 📫 Vamos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/alexandre-nobrega-b540988a/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrenobrega777@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-nobrega-b540988a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
