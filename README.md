@@ -17,6 +17,9 @@ Apaixonado por criar soluções completas e eficientes, do backend ao frontend. 
 **Frontend:**
 - 🅰️ **Angular** - Criação de interfaces dinâmicas e responsivas
 
+**DevOps & Containerização:**
+- 🐳 **Docker** - Containerização de aplicações para diferentes ambientes
+
 **Especialidades:**
 - 🔧 Arquitetura de microserviços
 - 🌐 APIs RESTful
