@@ -1,18 +1,26 @@
-# Alexandre Nobrega 
+# 👋 Olá, eu sou Alexandre
 
-Desenvolvedor Java | Spring boot | Backend
+## 🚀 Desenvolvedor Fullstack
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white//www.linkedin.com/in/cunhadev/)](https://www.linkedin.com/in/alexandre-nobrega-b540988a) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev.mateuscunha@gmail.com)](mailto:alexandrenobrega777@gmail.com)
+Apaixonado por criar soluções completas e eficientes, do backend ao frontend. Sempre em busca de novos desafios e tecnologias que possam agregar valor aos projetos.
 
-Apaixonado por Desenvolvimento de Software
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="200px" align="right">
 
-# Skills:
+### 🛠️ Tecnologias e Ferramentas
 
-![JAVA](https://img.shields.io/badge/Java-e00000?style=for-the-badge&logo=java&logoColor=white)
-![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+**Backend:**
+- ☕ **Java** - Linguagem principal para desenvolvimento robusto
+- 🚀 **Quarkus** - Framework moderno para aplicações cloud-native
+- 🍃 **Spring Boot** - Desenvolvimento ágil de APIs e microserviços
+- 🟢 **Node.js** - JavaScript no servidor para aplicações escaláveis
+
+**Frontend:**
+- 🅰️ **Angular** - Criação de interfaces dinâmicas e responsivas
+
+**Especialidades:**
+- 🔧 Arquitetura de microserviços
+- 🌐 APIs RESTful
+- ☁️ Soluções cloud-native
 
 <details open>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
@@ -23,3 +31,15 @@ Apaixonado por Desenvolvimento de Software
     </p>
 </details>
 <br>
+
+### 🌱 Atualmente
+
+- Implementando pipelines de CI/CD para automação de deploys
+- Estudando serviços AWS para soluções cloud escaláveis
+- Explorando novas funcionalidades do Quarkus
+- Aprofundando conhecimentos em Angular
+
+### 📫 Vamos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/alexandre-nobrega-b540988a/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrenobrega777@gmail.com)
