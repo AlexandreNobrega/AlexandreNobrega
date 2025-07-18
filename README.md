@@ -11,7 +11,7 @@ Apaixonado por criar soluções completas e eficientes, do backend ao frontend. 
 **Backend:**
 - ☕ **Java** - Linguagem principal para desenvolvimento robusto
 - 🚀 **Quarkus** - Framework moderno para aplicações cloud-native
-- 🍃 **Spring Boot** - Desenvolvimento ágil de APIs e microserviços
+- 🍃 **Spring Boot** - Desenvolvimento ágil de APIs e microsserviços
 - 🟢 **Node.js** - JavaScript no servidor para aplicações escaláveis
 
 **Frontend:**
